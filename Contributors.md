@@ -1,6 +1,7 @@
 ﻿
 # Contributors
 
+- [AdnanSayyed](https://github.com/SayyedAdnan)
 - [Kegjams](https://github.com/Kegjams)
 - [EndrylMarues](https://github.com/EndrylMarques)
 - [BaoGiang HoangVu](https://github.com/baogianghoangvu)
